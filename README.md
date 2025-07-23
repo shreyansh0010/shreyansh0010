@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 style="text-align: center;">Hey there!, I'm Shreyansh Singh👨🏻‍💻</h1>
+<h3 style="text-align: center;">A passionate student, web developer, and creative video editor from India, crafting tech stories through code and visuals.</h3>
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Hello GIF">
 
-<!--
-**shreyansh0010/shreyansh0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm just starting college and love learning new tech!
 
-Here are some ideas to get you started:
+👨‍💻 I've learnt Java, C, HTML, CSS, JavaScript, Express.js, MongoDB, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ Currently moving to React.js, then planning to learn Next.js, and later Python
+
+🌐 Actively working on Web Development Projects
+
+🎬 I'm a creative video editor working with DaVinci Resolve
+
+🛠️ Strong knowledge of Operating Systems like Windows and Android (hardware & software)
+
+🚀 CEO, Content Researcher & Main Video Editor for Instagram page @bitsandgears
+
+✨ Passionate about web dev, creativity & tech
+
+📱 Personal Instagram: @shreyansh_.04
+
+📧 Email: mailshreyanshhere@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/bitsandgears/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="BitsAndGears - Professional" height="30" width="30" /></a> <strong>Professional</strong>
+</p>
+<p align="left" style="margin-top: 10px;">
+<a href="https://www.instagram.com/shreyansh_.04/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Shreyansh - Personal" height="30" width="30" /></a> <strong>Personal</strong>
+</p>
+
+<h3 align="left">Languages & Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows OS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/65px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve" width="40" height="40"/>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh0010&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh0010&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
