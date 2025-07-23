@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/bitsandgears/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="BitsAndGears - Professional" height="30" width="30" /></a> <strong>Professional</strong>
+<a href="https://www.instagram.com/bitsandgears/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="BitsAndGears - Professional" height="30" width="30" /></a> <strong>Professional</strong>
 </p>
 <p align="left" style="margin-top: 10px;">
-<a href="https://www.instagram.com/shreyansh_.04/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Shreyansh - Personal" height="30" width="30" /></a> <strong>Personal</strong>
+<a href="https://www.instagram.com/shreyansh_.04/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Shreyansh - Personal" height="30" width="30" /></a> <strong>Personal</strong>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
