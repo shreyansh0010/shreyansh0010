@@ -4,7 +4,7 @@
 
 🌱 I'm just starting college and love learning new tech!
 
-👨‍💻 I've learnt Java, C, HTML, CSS, JavaScript, Express.js, MongoDB, Tailwind CSS
+👨‍💻 I've learnt Java, C, HTML, CSS, JavaScript, Express.js, MongoDB, Mongoose, Tailwind CSS
 
 ⚛️ Currently moving to React.js, then planning to learn Next.js, and later Python
 
