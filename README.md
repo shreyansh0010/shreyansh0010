@@ -18,9 +18,9 @@
 
 ✨ Passionate about web dev, creativity & tech
 
-📱 Personal Instagram: @shreyansh_.04
+📱 Personal Instagram: <a href="https://www.instagram.com/shreyansh_.04/" target="_blank">@shreyansh_.04</a>
 
-📧 Email: mailshreyanshhere@gmail.com
+📧 Email: <a href="mailto:mailshreyanshhere@gmail.com" target="_blank">mailshreyanshhere@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,10 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40"/>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/b5f67rzg/dgkrji2-dcceb33c-b702-4613-9c87-84295aa358c4.png" alt="dgkrji2-dcceb33c-b702-4613-9c87-84295aa358c4" border="0" width="45" height="45"></a>
-  <a href="https://ibb.co/B2W0DSXV"><img src="https://i.ibb.co/Zz4qskn6/and-modified.png" alt="and-modified" border="0" width="40" height="40"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/b5f67rzg/dgkrji2-dcceb33c-b702-4613-9c87-84295aa358c4.png" alt="Windows" border="0" width="45" height="45"></a>
+  <a href="https://ibb.co/B2W0DSXV"><img src="https://i.ibb.co/Zz4qskn6/and-modified.png" alt="Android" border="0" width="40" height="40"></a>
   <a href="https://ibb.co/RTrPJVF9"><img src="https://i.ibb.co/GQYkrb60/Da-Vinci-Resolve-Studio.png" alt="Da-Vinci-Resolve-Studio" border="0" width="40" height="40"></a>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/0y5hdfzq/105837515.png" alt="105837515" border="0" width="40" height="40"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/0y5hdfzq/105837515.png" alt="Canva" border="0" width="40" height="40"></a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
